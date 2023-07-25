@@ -1,4 +1,4 @@
-# Ch. 1 - Hello World
+# Ch. 1.2 - Hello World
 
 - Rust code starts running at the `main()` function
 - `rustc` is the compiler for rust, comparable to the `g++` or `clang` for the C/C++ language
